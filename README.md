@@ -31,4 +31,4 @@ CSS
 Git/GitHub
 Installation
 Clone the repository:
-git clone https://github.com/your-username/places-youve-been.git
+git clone https://github.com/kiokomathew85-dev/places-youve-been.git
