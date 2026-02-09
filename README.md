@@ -1,5 +1,5 @@
 .🌍 Places You've Been
-Project Badge
+Project Badge.
 License Badge.
 
 Live Demo https://kiokomathew85-dev.github.io/Places--visited.
