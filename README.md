@@ -13,7 +13,7 @@ Test-driven development (TDD) for reliable business logic
 Modular, reusable code for scalable applications
 This project focuses on functionality first, with potential for a fully interactive UI.
 
-Table of Contents..
+Table of Contents.
 Commit Strategy
 
 Author
