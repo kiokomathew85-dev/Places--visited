@@ -1,6 +1,6 @@
 🌍 Places You've Been
 Project Badge
-License Badge
+License Badge.
 
 Live Demo https://kiokomathew85-dev.github.io/Places--visited
 Check out the live project here: Places You've Been
