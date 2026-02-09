@@ -7,7 +7,7 @@ Check out the live project here: Places You've Been
 .
 Description
 Places You've Been is a JavaScript application that lets users keep track of all the destinations they’ve visited. Each place is represented as an object with properties like location, landmarks, season, and notes. The project demonstrates:
-
+.
 Object-oriented JavaScript using constructors and prototypes
 Test-driven development (TDD) for reliable business logic
 Modular, reusable code for scalable applications
