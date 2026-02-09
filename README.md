@@ -2,7 +2,7 @@
 Project Badge
 License Badge.
 
-Live Demo https://kiokomathew85-dev.github.io/Places--visited
+Live Demo https://kiokomathew85-dev.github.io/Places--visited.
 Check out the live project here: Places You've Been
 
 Description
