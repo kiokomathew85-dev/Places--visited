@@ -18,6 +18,7 @@ Commit Strategy
 
 Author
 MATHEW KIOKO
+
 Features
 Add and store multiple places visited
 View a summary of each place (location & season)
